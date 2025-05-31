@@ -23,6 +23,6 @@ You will Use the Subject to read the Certificate as most will be listed by trust
 The script retrieves UEFI firmware boot entries using the command bcdedit /enum firmware. 
 These entries describe the various boot options and configurations stored in the system firmware, which are critical in understanding the boot process.
 
-You will want to scan this for unwanted entrys or unkown vendors 
+You will want to scan this for unwanted entries or unkown vendors 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
